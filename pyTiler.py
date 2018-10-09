@@ -2,6 +2,8 @@
 #
 #	v 1.2.0
 #	Python image tiler for creating Google Street View tiles.
+#	Written by Caelan Borowiec, 2013
+#	Contact: caelanb.me
 #
 # **************************************************************
 
